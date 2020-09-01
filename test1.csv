@@ -1,0 +1,29 @@
+,name,mana_cost,cmc,colors,color_identity,type,text,flavor,power,toughness,loyalty,rarity,release
+0,Abzan Guide,{3}{W}{B}{G},6.0,"['Black', 'Green', 'White']","['B', 'G', 'W']",Creature — Human Warrior,"Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+Morph {2}{W}{B}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)","""These roads are desolate and changeable. Follow me, or die in the wastes.""",4,4,,Common,
+1,Bear's Companion,{2}{G}{U}{R},5.0,"['Green', 'Red', 'Blue']","['G', 'R', 'U']",Creature — Human Warrior,"When Bear's Companion enters the battlefield, create a 4/4 green Bear creature token.","""The Sultai came hunting for a bear hide. Now I have a belt of naga skin, and my friend has a full belly.""",2,2,,Uncommon,
+2,Bloodsoaked Champion,{B},1.0,['Black'],['B'],Creature — Human Warrior,"Bloodsoaked Champion can't block.
+Raid — {1}{B}: Return Bloodsoaked Champion from your graveyard to the battlefield. Activate this ability only if you attacked this turn.","""Death is merely another foe the Mardu will overcome.""",2,1,,Rare,
+3,Chief of the Edge,{W}{B},2.0,"['Black', 'White']","['B', 'W']",Creature — Human Warrior,Other Warrior creatures you control get +1/+0.,"""We are the swift, the strong, the blade's sharp shriek! Fear nothing, and strike!""",3,2,,Uncommon,
+4,Chief of the Scale,{W}{B},2.0,"['Black', 'White']","['B', 'W']",Creature — Human Warrior,Other Warrior creatures you control get +0/+1.,"""We are the shield unbroken. If we fall today, we will die well, and our trees will bear our names in honor.""",2,3,,Uncommon,
+5,Heir of the Wilds,{1}{G},2.0,['Green'],['G'],Creature — Human Warrior,"Deathtouch
+Ferocious — Whenever Heir of the Wilds attacks, if you control a creature with power 4 or greater, Heir of the Wilds gets +1/+1 until end of turn.","In the high caves of the Qal Sisma mountains, young hunters quest to hear the echoes of their fierce ancestors.",2,2,,Uncommon,
+6,Kin-Tree Warden,{G},1.0,['Green'],['G'],Creature — Human Warrior,"{2}: Regenerate Kin-Tree Warden.
+Morph {G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)","""The amber of the tree and the blood of my veins are the same.""",1,1,,Common,
+7,Mardu Hateblade,{W},1.0,['White'],"['B', 'W']",Creature — Human Warrior,{B}: Mardu Hateblade gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.),"""There may be little honor in my tactics, but there is no honor in losing.""",1,1,,Common,
+8,Mardu Hordechief,{2}{W},3.0,['White'],['W'],Creature — Human Warrior,"Raid — When Mardu Hordechief enters the battlefield, if you attacked this turn, create a 1/1 white Warrior creature token.",The horde grows with each assault.,2,3,,Common,
+9,Mardu Skullhunter,{1}{B},2.0,['Black'],['B'],Creature — Human Warrior,"Mardu Skullhunter enters the battlefield tapped.
+Raid — When Mardu Skullhunter enters the battlefield, if you attacked this turn, target opponent discards a card.",,2,1,,Common,
+10,Seeker of the Way,{1}{W},2.0,['White'],['W'],Creature — Human Warrior,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever you cast a noncreature spell, Seeker of the Way gains lifelink until end of turn.","""I don't know where my destiny lies, but I know it isn't here.""",2,2,,Uncommon,
+11,Snowhorn Rider,{3}{G}{U}{R},6.0,"['Green', 'Red', 'Blue']","['G', 'R', 'U']",Creature — Human Warrior,"Trample
+Morph {2}{G}{U}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)","Sure-footed, strong-willed, and ill-tempered—and so is the ram.",5,5,,Common,
+12,Surrak Dragonclaw,{2}{G}{U}{R},5.0,"['Green', 'Red', 'Blue']","['G', 'R', 'U']",Legendary Creature — Human Warrior,"Flash
+This spell can't be countered.
+Creature spells you control can't be countered.
+Other creatures you control have trample.",Both his rank and his scars were earned in single combat against a cave bear.,6,6,,Mythic,
+13,Timely Hordemate,{3}{W},4.0,['White'],['W'],Creature — Human Warrior,"Raid — When Timely Hordemate enters the battlefield, if you attacked this turn, return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.",,3,2,,Uncommon,
+14,Tuskguard Captain,{2}{G},3.0,['Green'],['G'],Creature — Human Warrior,"Outlast {G} ({G}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)
+Each creature you control with a +1/+1 counter on it has trample.",One quiet word sets off the stampede.,2,3,,Uncommon,
+15,War-Name Aspirant,{1}{R},2.0,['Red'],['R'],Creature — Human Warrior,"Raid — War-Name Aspirant enters the battlefield with a +1/+1 counter on it if you attacked this turn.
+War-Name Aspirant can't be blocked by creatures with power 1 or less.",No battle means more to a Mardu warrior than the one that earns her war name.,2,1,,Uncommon,
